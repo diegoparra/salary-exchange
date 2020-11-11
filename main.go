@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"nf-generator/currency"
-	"nf-generator/generate"
+	"salary-exchange/currency"
+	"salary-exchange/generate"
 )
 
 // Yahoo
